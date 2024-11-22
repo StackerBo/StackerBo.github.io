@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Bo Hu / Personal Page"
 title_separator          : "-"
 name                     : &name "Bo Hu"
-description              : &description "personal description"
+description              : &description "Pages for my share"
 url                      : https://stackerbo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StackerBo/stackerbo.github.io"
@@ -21,14 +21,14 @@ repository               : "StackerBo/stackerbo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile_Bo.png"
+  name             : "Bo Hu (胡 博)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hubosc@sina.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "StackerBo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
